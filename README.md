@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**luca1197/luca1197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+#### 🧍 About me
+- 🎓 Student
+- 💻 Developer
+- 🎮 Gamer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🖥️ My skills
+- Lua
+  - GLua ([Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam"))
+- Javascript
+  - Node.js
+- HTML
+- CSS
+
+#### 🚧 My projects
+- Garry's Mod Server at [Modern Gaming](https://modern-gaming.net/ "Modern Gaming")
+- Other personal projects, especially using Node.js
+- Learning Java for school
