@@ -22,5 +22,6 @@ Welcome to my GitHub profile!
 
 #### 📈 Stats
 - 🎂 My account is **3** years old
-- ⌨️ I commited something **535** times in **7** repositories
+- ⌨️ I commited something **536** times in **7** repositories
 - 🐛 **18** issues were opened by me
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluca1197&count_bg=%2379C83D&title_bg=%23555555&icon=visualstudiocode.svg&icon_color=%23E7E7E7&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
