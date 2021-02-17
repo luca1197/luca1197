@@ -21,6 +21,6 @@ Welcome to my GitHub profile!
 - Learning Java for school
 
 #### 📈 Stats
-- My account is **3** years old
-- I commited something **532** times in **7** repositories
-- **18** issues were opened by me
+- 🎂 My account is **3** years old
+- ⌨️ I commited something **533** times in **7** repositories
+- 🐛 **18** issues were opened by me
