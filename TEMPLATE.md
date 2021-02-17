@@ -21,6 +21,6 @@ Welcome to my GitHub profile!
 - Learning Java for school
 
 #### 📈 Stats
-- My account is **{{ ACCOUNT_AGE }}** years old
-- I commited something **{{ COMMITS }}** times in **{{ REPOSITORIES }}** repositories
-- **{{ ISSUES }}** issues were opened by me
+- 🎂 My account is **{{ ACCOUNT_AGE }}** years old
+- ⌨️ I commited something **{{ COMMITS }}** times in **{{ REPOSITORIES }}** repositories
+- 🐛 **{{ ISSUES }}** issues were opened by me
