@@ -19,3 +19,8 @@ Welcome to my GitHub profile!
 - Garry's Mod Server at [Modern Gaming](https://modern-gaming.net/ "Modern Gaming")
 - Other personal projects, especially using Node.js
 - Learning Java for school
+
+#### 📈 Stats
+- My account is **3** years old
+- I commited something **531** times in **7** repositories
+- **18** issues were opened by me
