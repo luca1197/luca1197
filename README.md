@@ -19,8 +19,9 @@ Welcome to my GitHub profile!
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam") server at [Modern Gaming](https://modern-gaming.net/ "Modern Gaming")
 - Other personal projects, especially using Node.js
 - Learning Java for school
+- Learning C#
 
 #### 📈 Stats
 - 🎂 My account is **3** years old
-- ⌨️ I commited something **584** times in **8** repositories
+- ⌨️ I commited something **585** times in **8** repositories
 - 🐛 **24** issues were opened by me
