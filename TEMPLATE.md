@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
   - GLua ([Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam"))
 - Javascript
   - Node.js
-  - Svelte & Sapper ❤️
+  - Svelte / Sapper / SvelteKit ❤️
 - HTML / CSS
 
 #### 🚧 Projects
