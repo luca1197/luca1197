@@ -18,10 +18,10 @@ Welcome to my GitHub profile!
 
 #### 🚧 Projects
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam") server at [Modern Gaming](https://modern-gaming.net/ "Modern Gaming")
-- Learning C# ([s&box](https://sbox.facepunch.com/)) and Java
+- Learning C# and Java
 
 #### 📈 Stats
 - 🎂 My account is **3** years old
-- ⌨️ I commited something **2667** times in **18** repositories
+- ⌨️ I commited something **2668** times in **18** repositories
 - 🐛 **56** issues were opened by me
 - 🔗 **8** pull requests were submitted by me
