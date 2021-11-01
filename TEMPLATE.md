@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 
 #### 🚧 Projects
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam") server at [Modern Gaming](https://modern-gaming.net/ "Modern Gaming")
-- Learning C# ([s&box](https://sbox.facepunch.com/)) and Java
+- Learning C# and Java
 
 #### 📈 Stats
 - 🎂 My account is **{{ ACCOUNT_AGE }}** years old
