@@ -22,6 +22,6 @@ Welcome to my GitHub profile!
 
 #### 📈 Stats
 - 🎂 My account is **3** years old
-- ⌨️ I commited something **2715** times in **18** repositories
+- ⌨️ I commited something **2715** times in **17** repositories
 - 🐛 **57** issues were opened by me
 - 🔗 **9** pull requests were submitted by me
