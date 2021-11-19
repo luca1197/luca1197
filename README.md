@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 - Learning C# and Java
 
 #### 📈 Stats
-- 🎂 My account is **3** years old
-- ⌨️ I commited something **2720** times in **17** repositories
-- 🐛 **59** issues were opened by me
+- 🎂 My account is **4** years old
+- ⌨️ I commited something **2721** times in **17** repositories
+- 🐛 **60** issues were opened by me
 - 🔗 **9** pull requests were submitted by me
