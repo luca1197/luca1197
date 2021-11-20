@@ -16,12 +16,12 @@ Welcome to my GitHub profile!
 - HTML / CSS
   - Tailwind CSS
 
-#### 🚧 Projects
+#### 🔨 Projects
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam") server at [Modern Gaming](https://modern-gaming.net/ "Modern Gaming")
-- Learning C# and Java
+- Learning C#
 
 #### 📈 Stats
 - 🎂 My account is **4** years old
-- ⌨️ I commited something **2722** times in **17** repositories
+- ⌨️ I commited something **2724** times in **18** repositories
 - 🐛 **61** issues were opened by me
 - 🔗 **9** pull requests were submitted by me
