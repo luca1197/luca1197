@@ -16,9 +16,9 @@ Welcome to my GitHub profile!
 - HTML / CSS
   - Tailwind CSS
 
-#### 🚧 Projects
+#### 🔨 Projects
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam") server at [Modern Gaming](https://modern-gaming.net/ "Modern Gaming")
-- Learning C# and Java
+- Learning C#
 
 #### 📈 Stats
 - 🎂 My account is **{{ ACCOUNT_AGE }}** years old
