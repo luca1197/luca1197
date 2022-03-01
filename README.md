@@ -3,7 +3,6 @@
 Welcome to my GitHub profile!
 
 #### 🧍 About me
-- 🎓 Student
 - 💻 Developer
 - 🎮 Gamer
 
@@ -12,7 +11,7 @@ Welcome to my GitHub profile!
   - GLua ([Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam"))
 - Javascript
   - Node.js
-  - Svelte / Sapper / SvelteKit ❤️
+  - Svelte & SvelteKit
 - HTML / CSS
   - Tailwind CSS
 
@@ -22,6 +21,6 @@ Welcome to my GitHub profile!
 
 #### 📈 Stats
 - 🎂 My account is **4** years old
-- ⌨️ I commited something **3024** times in **21** repositories
+- ⌨️ I commited something **3025** times in **21** repositories
 - 🐛 **95** issues were opened by me
 - 🔗 **10** pull requests were submitted by me
