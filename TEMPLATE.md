@@ -14,6 +14,8 @@ Welcome to my GitHub profile!
   - Svelte & SvelteKit
 - HTML / CSS
   - Tailwind CSS
+- PHP
+  - Symfony
 
 #### 🔨 Projects
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam") server at [Modern Gaming](https://modern-gaming.net/ "Modern Gaming")
