@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 #### 🖥️ Skills
 - Lua
   - GLua ([Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam"))
-- Javascript
+- Typescript / Javascript
   - Node.js
   - Svelte & SvelteKit
 - HTML / CSS
