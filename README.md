@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
 - Learning C#
 
 #### 📈 Stats
-- 🎂 My account is **5** years old
+- 🎂 My account is **6** years old
 - ⌨️ I made **2794** commits in **17** repositories
-- 🐛 **186** issues were opened by me
+- 🐛 **187** issues were opened by me
 - 🔗 **29** pull requests were submitted by me
