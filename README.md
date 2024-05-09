@@ -9,10 +9,10 @@ Welcome to my GitHub profile!
 #### 🖥️ Skills
 - Lua (6y)
   - GLua ([Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam"))
-- Typescript (2y) / Javascript (3y)
+- Typescript (2y) / Javascript (4y)
   - Node.js
   - Svelte & SvelteKit
-- HTML / CSS (3y)
+- HTML / CSS (4y)
   - Tailwind CSS
 - PHP (1y)
   - Symfony
@@ -23,6 +23,6 @@ Welcome to my GitHub profile!
 
 #### 📈 Stats
 - 🎂 My account is **6** years old
-- ⌨️ I made **3731** commits in **21** repositories
+- ⌨️ I made **3732** commits in **21** repositories
 - 🐛 **200** issues were opened by me
 - 🔗 **43** pull requests were submitted by me
