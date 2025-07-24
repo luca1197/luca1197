@@ -7,15 +7,20 @@ Welcome to my GitHub profile!
 - 🎮 Gamer
 
 #### 🖥️ Skills
-- Lua (6y)
+- Lua
   - GLua ([Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam"))
-- Typescript (2y) / Javascript (4y)
-  - Node.js
+- Typescript / Javascript
+  - Node.js, bun
   - Svelte & SvelteKit
-- HTML / CSS (4y)
-  - Tailwind CSS
-- PHP (1y)
+  - Vue & Nuxt
+  - Drizzle, Prisma
+  - discord.js
+- HTML / CSS
+  - Tailwind CSS, UnoCSS
+- PHP
   - Symfony
+- Linux
+- Docker
 
 #### 🔨 Projects
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam") server at [Modern Gaming](https://modern-gaming.net/ "Modern Gaming")
