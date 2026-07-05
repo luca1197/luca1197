@@ -28,6 +28,6 @@ Welcome to my GitHub profile!
 
 #### 📈 Stats
 - 🎂 My account is **8** years old
-- ⌨️ I made **6029** commits in **20** repositories
+- ⌨️ I made **6029** commits in **19** repositories
 - 🐛 **207** issues were opened by me
 - 🔗 **32** pull requests were submitted by me
