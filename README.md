@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile!
 
-#### 🧍 About me
-- 💻 Developer
-- 🎮 Gamer
-
 #### 🖥️ Skills
 - Lua
   - GLua ([Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam"))
@@ -22,12 +18,8 @@ Welcome to my GitHub profile!
 - Linux
 - Docker
 
-#### 🔨 Projects
-- [PoliceRP](https://policerp.de/) - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam") roleplay server
-- Learning C#
-
 #### 📈 Stats
 - 🎂 My account is **8** years old
-- ⌨️ I made **6193** commits in **17** repositories
+- ⌨️ I made **6200** commits in **17** repositories
 - 🐛 **207** issues were opened by me
 - 🔗 **32** pull requests were submitted by me
