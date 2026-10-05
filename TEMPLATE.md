@@ -7,8 +7,8 @@ Welcome to my GitHub profile!
   - GLua ([Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam"))
 - Typescript / Javascript
   - Node.js, bun
-  - Svelte & SvelteKit
   - Vue & Nuxt
+  - Svelte & SvelteKit
   - Drizzle, Prisma
   - discord.js
 - HTML / CSS
