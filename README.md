@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
   - 🛠️ Tech: Lua for in-game content; TypeScript, Node.js, Svelte & Vue for web services; Linux & Docker for infrastructure
 
 #### 📈 Stats
-- 🎂 My account is **8** years old
+- 🎂 My account is **9** years old
 - ⌨️ I made **6814** commits in **13** repositories
 - 🐛 **208** issues were opened by me
 - 🔗 **40** pull requests were submitted by me
